@@ -11,5 +11,5 @@ All exercizes are implemented in google colab.
 ### Student_performance dataset drive link: 
 https://drive.google.com/file/d/1hDcZEvrHsLfcZpxOmJ3L-diM5QA3aI-n/view?usp=share_link
 
-## Hotel_analysis dataset drive link:
+### Hotel_analysis dataset drive link:
 https://drive.google.com/file/d/1nh0lLGEqB-YroANsz072aqu4867KhpSw/view?usp=share_link
