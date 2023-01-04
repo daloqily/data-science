@@ -2,7 +2,8 @@
 Data science practice exercise
 
 ## Environment
-All exercizes are implemented in google colab.
+Student_performance & Hotel_analysis are implemented in google colab.
+House predictions developed through visual studio
 
 ## Running the program
 1. Running the file through "open in colab" option at the top of the file
@@ -14,5 +15,5 @@ https://drive.google.com/file/d/1hDcZEvrHsLfcZpxOmJ3L-diM5QA3aI-n/view?usp=share
 ### Hotel_analysis dataset drive link:
 https://drive.google.com/file/d/1nh0lLGEqB-YroANsz072aqu4867KhpSw/view?usp=share_link
 
-### House_prdeictions dataset:
+### House_predictions dataset:
 the csv file is added to the folder 
